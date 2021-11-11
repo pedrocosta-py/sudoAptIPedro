@@ -8,7 +8,7 @@
 
 
 
- <h1 align="center">Hello, there! Eu sou o Pedro!🐱‍🏍</h1>
+ <h1 align="center">Hello, there😃! Eu sou o Pedro!🐱‍🏍</h1>
  
 <div class="sobre">
   <ul>
