@@ -17,11 +17,14 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="sudoPedro-Js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="sudoPedro-PHP" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img align="center" alt="sudoPedro-PEARL" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg">
    <img align="center" alt="sudoPedro-HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="sudoPedro-CSS" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="sudoPedro-Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="sudoPedro-C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="center" alt="sudoPedro-C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+   <img align="center" alt="sudoPedro-Cpp" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+   <img align="center" alt="sudoPedro-gnu" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
+   <img align="center" alt="sudoPedro-linux" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="right" alt="sudoPedro-pic" height="152" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/872577984173858867/908172704522338344/download20211103224102.png">
   
 </div>
