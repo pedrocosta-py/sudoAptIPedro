@@ -1,10 +1,23 @@
-### Olá! Eu sou o Pedro!
+<div class="gif-image">
+  <h1 align="center">
+    <a>
+      <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="480" height="207" frameBorder="0" class="giphy-embed">
+    </a>
+  </h1>
+</div>
 
-- 👨‍💻 Graduando em ciência da computação
 
-- 🐱‍👤 Estudante de desenvenvolvimento web (HTML, CSS, JS, PHP e SQL)
 
-- 💻 Em busca de um estágio!
+ <h1 align="center">Hello, there! Eu sou o Pedro!🐱‍🏍</h1>
+ 
+<div class="sobre">
+  <ul>
+    <li> 👨‍💻 Graduando em ciência da computação </li>
+    <li> 🐱‍👤 Estudante de desenvenvolvimento web (HTML, CSS, JS, PHP e SQL) </li>
+    <li> 💻 Em busca de um estágio! </li>
+  </ul>
+</div>
+
 
   <div align="center">
     <a href="https://github.com/sudoAptIPedro">
