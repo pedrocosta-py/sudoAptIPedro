@@ -1,3 +1,5 @@
+###
+<main>
 <div class="gif-image">
   <h1 align="center">
     <a>
@@ -8,12 +10,12 @@
 
 
 
- <h1 align="center">Hello, there😃! Eu sou o Pedro!🐱‍🏍</h1>
+ <h1 align="center">Hello, there😃! Eu sou o Pedro!🐱‍💻</h1>
  
 <div class="sobre">
   <header>
     <ul>
-      <li> 👨‍💻 Graduando em ciência da computação </li>
+      <li> 👨‍💻 Graduando em Ciência da Computação </li>
       <li> 🐱‍👤 Estudante de desenvenvolvimento web (HTML, CSS, JS, PHP e SQL) </li>
       <li> 💻 Em busca de um estágio! </li>
     </ul>
@@ -23,14 +25,14 @@
 
   <div align="center">
     <header>
-       <h1> MY DAILY ACHIEVEMENTS </h1>
+       <h1> 🐱‍💻MY DAILY ACHIEVEMENTS💻 </h1>
        <a href="https://github.com/sudoAptIPedro">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=synthwave"/>
    </header>
   </div>
   
-  ###
+  
   
 <div style="display: inline_block"><br>
   <header>
@@ -48,7 +50,7 @@
   </header>
 </div>
   
-  ###
+  
   
   <div> 
     <footer>
@@ -57,6 +59,6 @@
       <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </footer>  
   </div>
-  
-  ###
+  </main>
+ 
  
