@@ -16,8 +16,10 @@
   <header>
     <ul>
       <li> 👨‍💻 Graduando em Ciência da Computação </li>
-      <li> 🐱‍👤 Estudante de desenvenvolvimento web (HTML, CSS, JS, PHP e SQL) </li>
-      <li> 💻 Em busca de um estágio! </li>
+      <li> 🐱‍👤 Estudante de desenvenvolvimento web (HTML, CSS e JS) </li>
+      <li> <img align="center" alt="sudoPedro-Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+        Amante de programação em Python 💻 </li>
+      <li> 🐱‍🏍 Em busca de um estágio! </li>
     </ul>
   </header> 
 </div>
