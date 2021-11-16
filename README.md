@@ -16,11 +16,15 @@
   <header>
     <ul>
       <li> 👨‍💻 Graduando em Ciência da Computação </li>
-      <li> 🐱‍👤 Estudante de desenvenvolvimento web (HTML, CSS e JS) </li>
-      <li> <img align="center" alt="sudoPedro-Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-        Amante de programação em Python 🐍💻 </li>
+      <li> 🐱‍👤 Estudante de desenvenvolvimento web (PHP, HTML, CSS e JS) </li>
       <li> 🐱‍🏍 Em busca de um estágio! </li>
     </ul>
+    <aside>
+      <article>
+         <h1>OBJETIVO💻</h1>
+            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao                   cliente!</p>
+      </article>
+    </aside>
   </header> 
 </div>
 
@@ -39,7 +43,7 @@
 <div style="display: inline_block"><br>
   <header>
    <img align="center" alt="sudoPedro-Js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="sudoPedro-PHP" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img align="center" alt="sudoPedro-PHP" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
    <img align="center" alt="sudoPedro-PEARL" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg">
    <img align="center" alt="sudoPedro-HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="sudoPedro-CSS" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
