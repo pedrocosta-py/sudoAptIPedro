@@ -1,6 +1,7 @@
 ###
 <main>
-<div class="gif-image">
+  <div class="container">
+  <div class="gif-image">
   <h1 align="center">
     <a>
       <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="480" height="207" frameBorder="0" class="giphy-embed">
@@ -65,6 +66,7 @@
       <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </footer>  
+  </div>
   </div>
   </main>
  
