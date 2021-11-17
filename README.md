@@ -31,12 +31,16 @@
 
 
   <div align="center">
-     <header>
+    <header>
        <h1> 🐱‍💻MY DAILY ACHIEVEMENTS ON GITHUB💻 </h1>
        <a href="https://github.com/sudoAptIPedro">
-       <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-       <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=dark"/>
-     </header>
+       <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em"
+          src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+       <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=blue-green"/>
+       <img style="border: 5px solid rgb(14, 185, 157); border-radius:50px;" height="30em"
+          src ="https://img.shields.io/github/followers/sudoAptIPedro.svg?style=social&label=Follow&maxAge=2592000"/>
+    </header>
   </div>
   
   <br>
