@@ -23,7 +23,7 @@
     <aside>
       <article>
          <h1>OBJETIVO💻</h1>
-            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao                   cliente!</p>
+            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento                  ao cliente!</p>
       </article>
     </aside>
   </header> 
@@ -50,6 +50,7 @@
    <img align="center" alt="sudoPedro-Js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="sudoPedro-PHP" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
   <img align="center" alt="sudoPedro-COMPOSER" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+  <img align="center" alt="sudoPedro-COMPOSER2" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
    <img align="center" alt="sudoPedro-HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="sudoPedro-CSS" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="sudoPedro-Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
