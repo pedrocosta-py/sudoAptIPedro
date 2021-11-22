@@ -33,6 +33,11 @@
   <div align="center">
     <header>
        <h1> 🐱‍💻MY DAILY ACHIEVEMENTS ON GITHUB💻 </h1>
+       <h2 align="center">
+        <a>
+          <img src="http://pa1.narvii.com/6547/6d3fb9efde1b1a831c0b277818117d8436ecc6e4_00.gif" width="480" height="207" frameBorder="0" class="giphy-embed">
+        </a>
+      </h2>
        <a href="https://github.com/sudoAptIPedro">
        <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em"
           src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -58,10 +63,8 @@
    <img align="center" alt="sudoPedro-C++" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
    <img align="center" alt="sudoPedro-gnu" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
    <img align="center" alt="sudoPedro-linux" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="right" alt="sudoPedro-pic" height="154" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/872577984173858867/908172704522338344/download20211103224102.png">
   </header>
 </div>
-  
    <br>
    <br>
     
@@ -70,6 +73,7 @@
       <a href="tel:21971292477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">  </a>
       <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <img align="right" alt="sudoPedro-pic" height="154" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/872577984173858867/908172704522338344/download20211103224102.png">
     </footer>  
   </div>
   </div>
