@@ -72,8 +72,11 @@
     <footer>
       <a href="tel:21971292477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">  </a>
       <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <br>
       <img align="right" alt="sudoPedro-pic" height="154" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/872577984173858867/908172704522338344/download20211103224102.png">
+      <br>
+      <img align="left" alt="sudoPedro-pic2" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/myLovenk.gif">
     </footer>  
   </div>
   </div>
