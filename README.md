@@ -27,8 +27,7 @@
       </article>
     </aside>
   </header> 
-</div>
-
+   </div>
 
   <div align="center">
     <header>
