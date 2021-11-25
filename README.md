@@ -31,7 +31,7 @@
 
   <div align="center">
     <header>
-       <h1> 🐱‍💻MY DAILY ACHIEVEMENTS ON GITHUB💻 </h1>
+       <h1>🐱‍💻MY DAILY ACHIEVEMENTS ON GITHUB💻</h1>
        <h2 align="center">
         <a>
           <img src="http://pa1.narvii.com/6547/6d3fb9efde1b1a831c0b277818117d8436ecc6e4_00.gif" width="480" height="207" frameBorder="0" class="giphy-embed">
