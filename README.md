@@ -34,13 +34,13 @@
        <h1>🐱‍💻 MY DAILY ACHIEVEMENTS ON GITHUB 💻</h1>
        <h2 align="center">
         <a>
-          <img src="http://pa1.narvii.com/6547/6d3fb9efde1b1a831c0b277818117d8436ecc6e4_00.gif" width="480" height="207" frameBorder="0" class="giphy-embed">
+          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/wp2757832.gif" width="490" height="217" frameBorder="0" class="giphy-embed">
         </a>
       </h2>
        <a href="https://github.com/sudoAptIPedro">
        <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
         <br>
-       <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=synthwave" />
+       <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=blue-green" />
        <br>
        <img style="border: 5px solid rgb(14, 185, 157); border-radius:50px;" height="30em" src="https://img.shields.io/github/followers/sudoAptIPedro.svg?style=social&label=Follow&maxAge=2592000" /> </a>
     </header>
