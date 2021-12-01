@@ -23,7 +23,7 @@
     <aside>
       <article>
          <h1>OBJETIVO💻</h1>
-            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento                  ao cliente!</p>
+            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao cliente!</p>
       </article>
     </aside>
   </header> 
@@ -34,7 +34,7 @@
        <h1>🐱‍💻 MY DAILY ACHIEVEMENTS ON GITHUB 💻</h1>
        <h2 align="center">
         <a>
-          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/wp2757832.gif" width="490" height="217" frameBorder="0" class="giphy-embed">
+          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966.gif" width="494" height="221" frameBorder="0" class="giphy-embed">
         </a>
       </h2>
        <a href="https://github.com/sudoAptIPedro">
