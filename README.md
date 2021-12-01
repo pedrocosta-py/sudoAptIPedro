@@ -29,7 +29,7 @@
   </header> 
    </div>
 
-  <div align="center">
+  <div align="center" style="display: inline-block;">
     <header>
        <h1>🐱‍💻 MY DAILY ACHIEVEMENTS ON GITHUB 💻</h1>
        <h2 align="center">
