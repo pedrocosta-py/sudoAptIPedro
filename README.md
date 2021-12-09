@@ -1,29 +1,29 @@
-###
-<main>
-  <div class="container">
-  <div class="gif-image">
+<header class="gif-image">
+  <h1 align="center"> HEY YOU👾</h1>
   <h1 align="center">
     <a>
       <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/matrixIsReal.gif" width="800" height="300" frameBorder="0" class="giphy-embed">
     </a>
   </h1>
-</div>
-
-
-
+</header>
+<main>
+  <div class="container">
+  
  <h1 align="center">Hello, there😃! Eu sou o Pedro!🐱‍💻</h1>
  
 <div class="sobre">
   <header>
-    <ul>
-      <li> 👨‍💻 Graduando em Ciência da Computação </li>
-      <li> 🐱‍👤 Estudante de desenvenvolvimento web (PHP, HTML, CSS e JS) </li>
-      <li> 🐱‍🏍 Em busca de um estágio! </li>
-    </ul>
+    <nav>
+      <ul>
+        <li> 👨‍💻 Graduando em Ciência da Computação </li>
+        <li> 🐱‍👤 Estudante de desenvenvolvimento web (PHP, HTML, CSS e JS) </li>
+        <li> 🐱‍🏍 Em busca de um estágio! </li>
+      </ul>
+    </nav>
     <aside>
       <article>
          <h1>OBJETIVO💻</h1>
-            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao cliente!</p>
+            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao cliente!                  </p>
       </article>
     </aside>
   </header> 
