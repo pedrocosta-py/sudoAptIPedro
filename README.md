@@ -26,9 +26,9 @@
             <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao cliente!                  </p>
       </article>
     </aside>
-  </header> 
+  </header>
    </div>
-
+<br>
   <div align="center" style="display: inline-block;">
     <header>
        <h1>🐱‍💻 MY DAILY ACHIEVEMENTS ON GITHUB 💻</h1>
