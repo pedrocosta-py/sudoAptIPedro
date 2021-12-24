@@ -1,14 +1,14 @@
 <header class="gif-image">
   <h1 align="center"> 
     <figure align="center">
-            <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/teucu.png" width="300" height="250">
+            <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/matrix.gif" width="450" height="225" style="border-radius:30px;">
         <br>
         <figcaption> You are welcome, visitor...</figcaption>
         </figure>
   </h1>
   <h1 align="center">
     <a>
-      <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/matrixIsReal.gif" width="800" height="300" frameBorder="0" class="giphy-embed">
+      <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/matrixIsReal.gif" width="800" height="300" frameBorder="0" class="giphy-embed" style="border-radius:30px;">
     </a>
   </h1>
 </header>
