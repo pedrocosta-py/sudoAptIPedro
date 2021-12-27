@@ -15,12 +15,18 @@
 <main>
   <div class="container">
   
- <h1 align="center">Hello, there😃! Eu sou o Pedro!🐱‍💻</h1>
+ <h1 align="center">
+   <figure> 
+     <img align="center" alt="sudoPedro-COMPOSER2" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
+     <figcaption> Hello, there, <br> 
+          eu sou o Pedro!!😃 </figcaption>
+   </figure>
+  </h1>
  
 <div class="sobre">
   <header>
     <nav>
-      <ul>
+      <ul> 
         <li> 👨‍💻 Graduando em Ciência da Computação </li>
         <li> 👾 Estudante de desenvenvolvimento web com Django, HTML, CSS e JS 🚀</li>
         <li> 🐱‍🏍 Em busca de um estágio! </li>
@@ -37,7 +43,7 @@
 <br>
   <div align="center" style="display: inline-block;">
     <header>
-       <h1>🐱‍💻 MY DAILY ACHIEVEMENTS ON GITHUB 💻</h1>
+       <h1>💻 MY DAILY ACHIEVEMENTS ON GITHUB 🐍</h1>
        <h2 align="center">
         <a>
           <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/lordSithVader.gif" width="494" height="221" frameBorder="0" class="giphy-embed">
@@ -62,7 +68,6 @@
     <img align="center" alt="sudoPedro-Ubuntu" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
     <img align="center" alt="sudoPedro-PHP" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
     <img align="center" alt="sudoPedro-COMPOSER" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
-    <img align="center" alt="sudoPedro-COMPOSER2" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
     <img align="center" alt="sudoPedro-HTML" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="sudoPedro-JS" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="sudoPedro-CSS" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
