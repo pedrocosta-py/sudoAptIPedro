@@ -57,7 +57,21 @@
        <img style="border: 5px solid rgb(14, 185, 157); border-radius:50px;" height="30em" src="https://img.shields.io/github/followers/sudoAptIPedro.svg?style=social&label=Follow&maxAge=2592000" /> </a>
     </header>
   </div>
-  
+    <br>
+   <div style="display: inline-block;">
+     <h1> 
+       Links dos repositórios com mais commits:
+     </h1>
+     <nav>
+       <ul type="square"> 
+         <li> <a href="https://github.com/sudoAptIPedro/Matema-Python-"> Projetos de Matemática com Python🐍 </a> </li>
+         <li> <a href="https://github.com/sudoAptIPedro/Projetos-de-anima-es-em-CSS"> Projetos de animações com CSS✨ </a> </li>
+         <li> <a href="https://github.com/sudoAptIPedro/universityAtvs"> Atividades da Universidade em C e CPP🤖 </a> </li>
+         <li> Mais projetos em breve!🚀🪐 </li>
+       </ul>
+     </nav> 
+    </div>
+   <br>
   <br>
   
 <div style="display: inline_block"><br>
