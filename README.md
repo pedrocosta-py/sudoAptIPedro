@@ -77,21 +77,21 @@
 <div style="display: inline_block"><br>
   <header>
     <figure>
-      <img align="center" alt="sudoPedro-Python" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
-      <img align="center" alt="sudoPedro-Flask" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"/>
-      <img align="center" alt="sudoPedro-Django" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg"/>
-       <img align="center" alt="sudoPedro-kivy" height="43" width="51" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/kivyy.svg"/>
-      <img align="center" alt="sudoPedro-Ubuntu" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
-      <img align="center" alt="sudoPedro-PHP" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
-      <img align="center" alt="sudoPedro-COMPOSER" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
-      <img align="center" alt="sudoPedro-HTML" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="sudoPedro-JS" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="sudoPedro-CSS" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="sudoPedro-Apache" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
-      <img align="center" alt="sudoPedro-C" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
-      <img align="center" alt="sudoPedro-C++" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
-      <img align="center" alt="sudoPedro-BASH" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
-      <img align="center" alt="sudoPedro-gnu" height="43" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
+      <img align="center" alt="sudoPedro-Python" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
+      <img align="center" alt="sudoPedro-Flask" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"/>
+      <img align="center" alt="sudoPedro-Django" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg"/>
+       <img align="center" alt="sudoPedro-kivy" height="42" width="50" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/kivyy.svg"/>
+      <img align="center" alt="sudoPedro-Ubuntu" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
+      <img align="center" alt="sudoPedro-PHP" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
+      <img align="center" alt="sudoPedro-COMPOSER" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
+      <img align="center" alt="sudoPedro-HTML" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="sudoPedro-JS" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="sudoPedro-CSS" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="sudoPedro-Apache" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+      <img align="center" alt="sudoPedro-C" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
+      <img align="center" alt="sudoPedro-C++" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
+      <img align="center" alt="sudoPedro-BASH" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
+      <img align="center" alt="sudoPedro-gnu" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
       <img align="center" alt="sudoPedro-linux" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     </figure>
   </header>
