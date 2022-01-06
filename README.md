@@ -17,9 +17,9 @@
   
  <h1 align="center">
    <figure> 
-     <img align="center" alt="sudoPedro-COMPOSER2" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
-     <figcaption> Hello, there, <br> 
-          eu sou o Pedro!!😃 </figcaption>
+     <img align="center" alt="sudoPedro-COMPOSER2" height="48" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
+     <br>
+     <figcaption> Hello, there, eu sou o Pedro!!😃 </figcaption>
    </figure>
   </h1>
  
