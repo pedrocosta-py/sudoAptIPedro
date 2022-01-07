@@ -69,8 +69,7 @@
      </nav> 
     </div>
    <br>
-  <br>
-  
+ 
 <div style="display: inline_block"><br>
   <header>
     <figure>
