@@ -78,7 +78,8 @@
       <img align="center" alt="sudoPedro-Flask" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"/>
       <img align="center" alt="sudoPedro-Django" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg"/>
        <img align="center" alt="sudoPedro-kivy" height="40" width="48" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/kivyy.svg"/>
-      <img align="center" alt="sudoPedro-Ubuntu" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
+       <img align="center" alt="sudoPedro-BASH" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
+       <img align="center" alt="sudoPedro-Ubuntu" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
       <img align="center" alt="sudoPedro-PHP" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
       <img align="center" alt="sudoPedro-COMPOSER" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
       <img align="center" alt="sudoPedro-HTML" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -87,7 +88,6 @@
       <img align="center" alt="sudoPedro-Apache" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
       <img align="center" alt="sudoPedro-C" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
       <img align="center" alt="sudoPedro-C++" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
-      <img align="center" alt="sudoPedro-BASH" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
       <img align="center" alt="sudoPedro-linux" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     </figure>
   </header>
