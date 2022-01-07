@@ -34,7 +34,7 @@
     </nav>
     <aside>
       <article>
-         <h1>OBJETIVO💻</h1>
+         <h1 align="center">OBJETIVO💻</h1>
             <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao cliente!                  </p>
       </article>
     </aside>
