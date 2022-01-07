@@ -17,7 +17,7 @@
   
  <h1 align="center">
    <figure> 
-     <img align="center" alt="sudoPedro-COMPOSER2" height="48" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
+     <img align="center" alt="sudoPedro-COMPOSER2" height="118" width="114" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/r2d2.svg">
      <br>
      <figcaption> Hello, there, eu sou o Pedro!!😃 </figcaption>
    </figure>
