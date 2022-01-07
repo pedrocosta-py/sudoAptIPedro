@@ -43,12 +43,9 @@
 <br>
   <div align="center" style="display: inline-block;">
     <header>
-       <h1>💻 MY DAILY ACHIEVEMENTS ON GITHUB 🐍</h1>
-       <h2 align="center">
-        <a>
-          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/lordSithVader.gif" width="494" height="221" frameBorder="0" class="giphy-embed">
-        </a>
-      </h2>
+       <h1> <img align="center" alt="sudoPedro-xWing" height="118" width="114" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/seucupreto.svg">
+         MY DAILY ACHIEVEMENTS ON GITHUB 
+         <img align="center" alt="sudoPedro-pic2" height="120" width="116" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/milenium.svg"></h1>
        <a href="https://github.com/sudoAptIPedro">
        <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
         <br>
