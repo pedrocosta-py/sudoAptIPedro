@@ -21,7 +21,7 @@
     <nav>
       <ul> 
         <li> 👨‍💻 Graduando em Ciência da Computação </li>
-        <li> 👾 Estudante de desenvenvolvimento web com Django, HTML, CSS e JS 🚀</li>
+        <li> 👾 Estudante de desenvenvolvimento web </li>
         <li> 🐱‍🏍 Em busca de um estágio! </li>
       </ul>
     </nav>
