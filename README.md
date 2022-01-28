@@ -10,7 +10,7 @@
   
  <h1 align="center">
    <figure> 
-     <img align="center" alt="sudoPedro-R2D2" height="118" width="114" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/r2d2.svg">
+     <img align="center" alt="sudoPedro-Mythosaur" height="120" width="116" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/oMando.svg">
      <br>
      <figcaption> Hello, there, eu sou o Pedro!!😃 </figcaption>
    </figure>
@@ -38,7 +38,7 @@
     <header>
        <h1> <img align="center" alt="sudoPedro-xWing" height="120" width="116" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/seucupreto.svg">
          MY DAILY ACHIEVEMENTS ON GITHUB 
-         <img align="center" alt="sudoPedro-pic2" height="120" width="116" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/benSolo.svg"></h1>
+        </h1>
        <a href="https://github.com/sudoAptIPedro">
        <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
         <br>
