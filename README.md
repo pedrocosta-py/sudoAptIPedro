@@ -12,7 +12,7 @@
    <figure> 
      <img align="center" alt="sudoPedro-Mythosaur" height="120" width="116" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/oMando.svg">
      <br>
-     <figcaption> Hello, there, eu sou o Pedro!!😃 </figcaption>
+     <figcaption> Hello, there, eu sou o Pedro!! </figcaption>
    </figure>
   </h1>
  
