@@ -1,7 +1,7 @@
 <header class="gif-image">
   <h1 align="center"> 
     <figure align="center">
-            <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/theNewPedro.gif" width="852" height="452" style="border-radius:30px;">
+            <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/theNewPedroio.gif" width="852" height="452" style="border-radius:30px;">
         </figure>
   </h1>
 </header>
