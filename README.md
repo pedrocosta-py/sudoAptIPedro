@@ -25,12 +25,6 @@
         <li> 🐱‍🏍 Em busca de um estágio! </li>
       </ul>
     </nav>
-    <aside>
-      <article>
-         <h1 align="center">OBJETIVO💻</h1>
-            <p> Atuar no ramo de tecnologia da informação, desenvolvimento de aplicações web, manipulação e administração de banco de dados, suporte e atendimento ao cliente!                  </p>
-      </article>
-    </aside>
   </header>
    </div>
 <br>
@@ -50,7 +44,7 @@
     <br>
    <div style="display: inline-block;">
      <h1> 
-       Links dos repositórios com mais commits: <img align="center" alt="sudoPedro-Matrix" height="50" width="68" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/matrixIsReal.gif">
+       Links dos repositórios com mais commits: <img align="center" alt="sudoPedro-Matrix" height="50" width="68" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/mandoPedroPedr.gif">
      </h1>
      <nav>
        <ul type="square"> 
