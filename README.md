@@ -42,21 +42,6 @@
     </header>
   </div>
     <br>
-   <div style="display: inline-block;">
-     <h1> 
-       Links dos repositórios com mais commits: <img align="center" alt="sudoPedro-Matrix" height="50" width="68" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/mandoPedroPedr.gif">
-     </h1>
-     <nav>
-       <ul type="square"> 
-         <li> <a href="https://github.com/sudoAptIPedro/Matema-Python-"> Projetos de Matemática com Python🐍 </a> </li>
-         <li> <a href="https://github.com/sudoAptIPedro/Projetos-de-anima-es-em-CSS"> Projetos de animações com CSS✨ </a> </li>
-         <li> <a href="https://github.com/sudoAptIPedro/universityAtvs"> Atividades da Universidade em C e CPP🤖 </a> </li>
-         <li> Mais projetos em breve!🚀🪐 </li>
-       </ul>
-     </nav> 
-    </div>
-   <br>
- 
 <div style="display: inline_block"><br>
   <header>
     <figure>
@@ -68,9 +53,6 @@
         <img align="center" alt="sudoPedro-C" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
         <img align="center" alt="sudoPedro-linux" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
         <img align="center" alt="sudoPedro-C++" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
-        <img align="center" alt="sudoPedro-Flask" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"/>
-        <img align="center" alt="sudoPedro-Django" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg"/>
-        <img align="center" alt="sudoPedro-kivy" height="40" width="48" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/kivyy.svg"/>
         <img align="center" alt="sudoPedro-BASH" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
         <img align="center" alt="sudoPedro-COMPOSER" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
         <img align="center" alt="sudoPedro-JS" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -92,7 +74,7 @@
           <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
           <br>
-          <img align="right" alt="sudoPedro-pik" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/meProfilePic.gif">
+          <img align="right" alt="sudoPedro-pik" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/mandoPedroPedr.gif">
           <br>
           <img align="left" alt="sudoPedro-pic2" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/myLovenk.gif">
         </figure>
