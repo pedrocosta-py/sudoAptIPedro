@@ -1,45 +1,25 @@
 <header class="gif-image">
   <h1 align="center"> 
     <figure align="center">
-            <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/bemVindo.gif" width="652" height="552" style="border-radius:30px;">
+            <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/100.gif" width="652" height="552" style="border-radius:30px;">
         </figure>
   </h1>
 </header>
 <main>
-  <div class="container">
-  
- <h1 align="center">
-   <figure> 
-     <img align="center" alt="sudoPedro-Mythosaur" height="130" width="126" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/batman.svg"> <br>
-     <figcaption> Hello, there, eu sou o Pedro!! </figcaption>
-   </figure>
+  <h1 align="center">
+    Hello, there, eu sou o Pedro!!👽
   </h1>
- 
-<div class="sobre">
-  <header>
-    <nav>
-      <ul> 
-        <li> 👨‍💻 Graduando em Ciência da Computação </li>
-        <li> 👾 Estudante de desenvenvolvimento web </li>
-        <li> 🐱‍🏍 Em busca de um estágio! </li>
-      </ul>
-    </nav>
-  </header>
-   </div>
-<br>
-  <div align="center" style="display: inline-block;">
-    <header>
-       <h1> <img align="center" alt="sudoPedro-xWing" height="120" width="116" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/seucupreto.svg">
-         MY DAILY ACHIEVEMENTS ON GITHUB 
-        </h1>
+<br>    
+  <aside>
+    <h1 align="center">
        <a href="https://github.com/sudoAptIPedro">
        <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
         <br>
        <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=blue-green" />
        <br>
        <img style="border: 5px solid rgb(14, 185, 157); border-radius:50px;" height="30em" src="https://img.shields.io/github/followers/sudoAptIPedro.svg?style=social&label=Follow&maxAge=2592000" /> </a>
-    </header>
-  </div>
+    </h1>
+  </aside>
     <br>
 <div style="display: inline_block"><br>
   <header>
@@ -61,23 +41,17 @@
 </div>
    <br>
    <br>
+   <br>
   <div> 
     <footer>
-      <h1 align="center">
-        <figure> 
-          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/pedroEsPedrinho.gif" width="650" height="350"> 
-        </figure>
-      </h1>
         <figure>
           <a href="tel:21971292477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
           <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
           <br>
-          <img align="right" alt="sudoPedro-pik" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/mandoPedroPedr.gif">
-          <br>
           <img align="left" alt="sudoPedro-pic2" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/myLovenk.gif">
         </figure>
       </footer>  
   </div>
-  </div>
+  <br>
   </main>
