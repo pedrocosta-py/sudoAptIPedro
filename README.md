@@ -69,6 +69,6 @@ Divirtão-se e vamos **codar**!
         -Martin Luther King
       <p>
       <br>
-    <img align="left" alt="sudoPedro-pic2" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/myLovenk.gif">
+    <img align="left" alt="sudoPedro-pict2" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/myLovenk.gif">
   </figure>
 </div>     
