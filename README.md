@@ -18,7 +18,7 @@ Divirtão-se e vamos **codar**!
 
 <br>
 
-# 👾Minha atividade do GitHub
+# 👾Minha atividade no GitHub
 <figure>
   <h1 align="center">
     <a href="https://github.com/sudoAptIPedro">
