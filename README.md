@@ -7,7 +7,7 @@
 </header>
 <main>
   <h1 align="center">
-    Hello, there, eu sou o Pedro!!👽
+    Hello, there!!👽
   </h1>
 <br>    
   <aside>
@@ -49,6 +49,12 @@
           <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
           <br>
+          <p align="right" width="50">
+            <q> O que me preocupa não é o grito dos maus, <br> mas o silêncio dos bons</q> 
+            <br>
+              -Martin Luther King
+            <p>
+            <br>
           <img align="left" alt="sudoPedro-pic2" height="154" style="border-radius:50px;" src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/myLovenk.gif">
         </figure>
       </footer>  
