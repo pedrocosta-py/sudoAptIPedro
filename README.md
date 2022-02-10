@@ -32,7 +32,7 @@ Divirtão-se e vamos **codar**!
 </figure>
 <br>
 
-# Tecnologias presentes nos repositórios
+# 🖥**Tecnologias presentes nos repositórios**
 - [PHP](https://github.com/sudoAptIPedro/php)
 - [HTML5](https://github.com/sudoAptIPedro/study-html5-css3)
 - [CSS3](https://github.com/sudoAptIPedro/study-html5-css3)
