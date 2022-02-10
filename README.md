@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/lelp.gif" width="752" height="452">
-</h1>
+![](https://github.com/sudoAptIPedro/phpKillJava/blob/main/lelp.gif)
 
 ``` php
 <?php
