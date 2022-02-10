@@ -33,11 +33,27 @@ Divirtão-se e vamos **codar**!
 <br>
 
 # 🖥**Tecnologias presentes nos repositórios**
-- [PHP](https://github.com/sudoAptIPedro/php)
-- [HTML5](https://github.com/sudoAptIPedro/study-html5-css3)
-- [CSS3](https://github.com/sudoAptIPedro/study-html5-css3)
-- [JavaScript](https://github.com/sudoAptIPedro/javascript)
-- [C e C++](https://github.com/sudoAptIPedro/c_cpp_studies)
+
+- [PHP][Link do repositório em PHP]
+    
+    [Link do Repositório em PHP]: https://github.com/sudoAptIPedro/projetosEmPhp
+
+- [HTML5][Link do repositório em HTML5]
+    
+    [Link do Repositório em HTML5]: https://github.com/sudoAptIPedro/study-html5-css3
+
+- [CSS3][Link do repositório em CSS3]
+    
+    [Link do Repositório em CSS3]: https://github.com/sudoAptIPedro/study-html5-css3
+
+- [Javascript][Link do repositório em Javascript]
+    
+    [Link do Repositório em Javascript]: https://github.com/sudoAptIPedro/javascript
+
+- [C e C++][Link do repositório em C e C++]
+    
+    [Link do Repositório em C e C++]: https://github.com/sudoAptIPedro/c_cpp_studies
+
 <br>
 <figure>
   <h1 align="center">
