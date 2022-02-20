@@ -9,7 +9,7 @@ boasVindas()
 ```
 
 # 💻Sobre 
-Olá, bem vindo ao meu perfil!<br> No mesmo, serão postados codigos referentes aos meu estudos nas <br> tecnologias envolvidas em **desenvolmento web** (HTML5, CSS3, JS, PHP e entre outras).
+Olá, bem vindo ao meu perfil!<br> No mesmo, serão postados codigos referentes aos meu estudos nas <br> tecnologias envolvidas em **desenvolmento web** (HTML5, CSS3, JS, Python, PHP e entre outras).
 <br>
 
 Divirtão-se e vamos **codar**!
