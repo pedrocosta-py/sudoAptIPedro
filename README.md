@@ -1,11 +1,11 @@
 ![](https://github.com/sudoAptIPedro/phpKillJava/blob/main/lelp.gif)
 
-``` php
-<?php
+``` python
+def boasVindas():
+  print("Seja bem vindo, visitante!") 
 
-echo "Seja bem vindo!"; 
+boasVindas()
 
-?>
 ```
 
 # 💻Sobre 
@@ -31,10 +31,6 @@ Divirtão-se e vamos **codar**!
 <br>
 
 # 🖥**Tecnologias presentes nos repositórios**
-
-- [PHP][Link do repositório em PHP]
-    
-    [Link do Repositório em PHP]: https://github.com/sudoAptIPedro/projetosEmPhp
 
 - [HTML5][Link do repositório em HTML5]
     
