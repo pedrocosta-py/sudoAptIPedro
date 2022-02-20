@@ -32,19 +32,31 @@ Divirtão-se e vamos **codar**!
 
 # 🖥**Tecnologias presentes nos repositórios**
 
-- [HTML5][Link do repositório em HTML5]
+- [Python 🐍][Link do repositório em Py]
     
-    [Link do Repositório em HTML5]: https://github.com/sudoAptIPedro/study-html5-css3
+    [Link do Repositório em Py]: https://github.com/sudoAptIPedro/pythonStudies
 
-- [CSS3][Link do repositório em CSS3]
-    
-    [Link do Repositório em CSS3]: https://github.com/sudoAptIPedro/study-html5-css3
-
-- [Javascript][Link do repositório em Javascript]
+- [Javascript 🖥][Link do repositório em Javascript]
     
     [Link do Repositório em Javascript]: https://github.com/sudoAptIPedro/javascript
 
-- [C e C++][Link do repositório em C e C++]
+- [Projetos em Python 💻🐍][Link do repositório em PyProj]
+    
+    [Link do Repositório em PyProj]: https://github.com/sudoAptIPedro/pythonProjects
+    
+- [HTML5 🦅][Link do repositório em HTML5]
+    
+    [Link do Repositório em HTML5]: https://github.com/sudoAptIPedro/study-html5-css3
+
+- [Matematica com Python 🐍🧮][Link do repositório em matemaPy]
+    
+    [Link do Repositório em matemaPy]: https://github.com/sudoAptIPedro/matemaPython
+    
+- [CSS3 📐][Link do repositório em CSS3]
+    
+    [Link do Repositório em CSS3]: https://github.com/sudoAptIPedro/study-html5-css3
+
+- [C e C++ 👽][Link do repositório em C e C++]
     
     [Link do Repositório em C e C++]: https://github.com/sudoAptIPedro/c_cpp_studies
 
