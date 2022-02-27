@@ -1,15 +1,19 @@
 ![](https://github.com/sudoAptIPedro/phpKillJava/blob/main/lelp.gif)
 
-``` python
-def boasVindas():
-  print("Seja bem vindo, visitante!") 
+``` php
+<?php
+
+function boasVindas(){
+  echo "Seja bem vindo, visitante!"; 
+}
 
 boasVindas()
 
+?>
 ```
 
 # 💻Sobre 
-Olá, bem vindo ao meu perfil!<br> No mesmo, serão postados codigos referentes aos meu estudos nas <br> tecnologias envolvidas em **desenvolmento web** (HTML5, CSS3, JS, Python, PHP e entre outras).
+Olá, bem vindo ao meu perfil!<br> No mesmo, serão postados codigos referentes aos meu estudos nas <br> tecnologias envolvidas em **desenvolmento web** (HTML5, CSS3, JS, PHP, Python e entre outras).
 <br>
 
 Divirtão-se e vamos **codar**!
@@ -32,9 +36,17 @@ Divirtão-se e vamos **codar**!
 
 # 🖥**Tecnologias presentes nos repositórios**
 
-- [Python 🐍][Link do repositório em Py]
+- [PHP 🦏][Link do Repositório em PHP]
+    
+    [Link do Repositório em PHP]: https://github.com/sudoAptIPedro/php
+
+- [Python 🐍][Link do Repositório em Py]
     
     [Link do Repositório em Py]: https://github.com/sudoAptIPedro/pythonStudies
+
+- [Projetos em PHP 🦏🔰][Link do Repositório de Projetos em PHP]
+    
+    [Link do Repositório de Projetos em PHP]: https://github.com/sudoAptIPedro/projetosEmPhp
 
 - [Javascript 🖥][Link do repositório em Javascript]
     
