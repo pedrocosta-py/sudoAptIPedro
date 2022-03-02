@@ -4,7 +4,7 @@
 <?php
 
 function boasVindas(){
-  echo "Seja bem vindo, visitante!"; 
+  return "Seja bem vindo, visitante!"; 
 }
 
 boasVindas()
